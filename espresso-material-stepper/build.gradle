@@ -35,4 +35,3 @@ ext {
 }
 
 apply from: '../installv1.gradle'
-apply from: '../bintrayv1.gradle'
